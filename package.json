@@ -2,7 +2,7 @@
   "name": "kaomos-button",
   "version": "1.0.0",
   "description": "Button webcomponent with integrated loader",
-  "main": "lib/kaomos-button.js",
+  "main": "dist/button.min.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

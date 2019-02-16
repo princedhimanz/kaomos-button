@@ -10,7 +10,7 @@
 </blockquote>
 
 <div align="center">
-    <a href="zsacrety.github.io/kaomos-button">Check out the demo |</a>
+    <a href="https://zsacrety.github.io/kaomos-button">Check out the demo |</a>
     <a href="#Installation">Installation |</a>
     <a href="#usage">Usage |</a>
     <a href="#browser-support">Browser Support</a>
