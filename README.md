@@ -1,7 +1,6 @@
 <h1 align="center">
-    <img src="./documentation/img/loader.gif" width="500px">
+    <img src="./documentation/img/loader.gif" width="600px">
     <br>
-    <hr style="height:1px;border:none;margin:-25px;color:#fff;background-color:#fff;">
     Kaomos Button
 </h1>
 
@@ -11,7 +10,7 @@
 </blockquote>
 
 <div align="center">
-    <a href=zsacrety.github.io/kaomos-button">Check out the demo |</a>
+    <a href="zsacrety.github.io/kaomos-button">Check out the demo |</a>
     <a href="#Installation">Installation |</a>
     <a href="#usage">Usage |</a>
     <a href="#browser-support">Browser Support</a>
