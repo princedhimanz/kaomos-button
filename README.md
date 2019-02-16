@@ -26,7 +26,7 @@
 npm i kaomos-button
 ```
 
-Or via manual [download]()
+Or via manual [download](https://github.com/zSacrety/kaomos-button/archive/master.zip)
 
 ### Include
 

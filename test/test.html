@@ -15,11 +15,17 @@
 </head>
 <body>
     <div class="container">
-        <kaomos-button label="Download"></kaomos-button>
+        <!--<kaomos-button label="Download"></kaomos-button>-->
     </div>
 
     <script>
-        const btn = document.getElementsByTagName('kaomos-button')[0]
+        /*const btn = document.getElementsByTagName('kaomos-button')[0]*/
+
+        const container = document.getElementsByClassName('container')[0]
+        const btn = document.createElement('kaomos-button')
+        btn.setAttribute('label', 'Download')
+        btn.setAttribute('loader-speed', '3')
+        container.appendChild(btn)
 
         btn.addEventListener('click', () => {
             if(!btn.isRunning()){
