@@ -33,13 +33,13 @@ Or via manual [download](https://github.com/zSacrety/kaomos-button/archive/maste
 #### As ES6 module
 
 ```javascript
-import 'dist/buttons.min.js'
+import 'dist/button.min.js'
 ```
 
 #### As file include
 
 ```html
-<script src="dist/buttons.min.js"></script>
+<script src="dist/button.min.js"></script>
 ```
 
 ## Usage
